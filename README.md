@@ -19,21 +19,25 @@ To install in on Android things :
  
  The video below will show you how a worker/ employee or any other person who is to be managed ,will access the app.
  This includes:
-  1.Worker Account creation
-  2.Worker company verification
-  3.Worker Job acceptance 
-  4.Worker list of tasks.
-  5.Task progress  and worker behaviour monitoring.
-  6.Analysing this info using machine learning models.
-  7.Analytics of better worker performance and reporting incase of work mishandling.
+  1. Worker Account creation
+  2. Worker company verification
+  3. Worker Job acceptance 
+  4. Worker list of tasks.
+  5. Task progress  and worker behaviour monitoring.
+  6. Analysing this info using machine learning models.
+  7. Analytics of better worker performance and reporting incase of work mishandling.
   
  https://youtu.be/uOxihngWp88
  
  The following video will show you the Manager/Employer/Admin side of the app.  
  This includes:
- 1.Manager job assignment dashboard.
- 2.Manger workers control.
- 3.Tracking of workers in various fields.
- 4.Verifying if tasks have been done correctly.
- 5.Declaring if task has been done correctly.
+ 1. Manager job assignment dashboard.
+ 2. Manger workers control.
+ 3. Tracking of workers in various fields.
+ 4. Verifying if tasks have been done correctly.
+ 5. Declaring if task has been done correctly.
+ 
+ ![GitHub Logo](/Screensgots/Screenshot_20191130-001904.png)
+ 
+  ![GitHub Logo](/Screensgots/Screenshot_20191130-002306.png)
 
