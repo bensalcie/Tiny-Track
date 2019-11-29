@@ -39,7 +39,8 @@ To install in on Android things :
  
  https://youtu.be/WYlQpCj5--Y
  
- ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png| width=100 height=200)
+ 
+ ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png | width=100 height=200)
 
 
 # Description
@@ -47,11 +48,11 @@ Work ethics has been a very big and demanding problem to most organizations, ind
 
 "Successful entreneural economy is a sort of behavior that includes initiative taking, organizing and re-organizing  of social and economic mecahnisms"-Sapero,1975 .  True work is work that can be accounted for and subjected to evaluation.
 
-. Whats my goal here? 
+Whats my goal here? 
 
 My goal here is to create a condusive environment full of transparency, full of trust, full of confidence and environment where a company, and individual, organization or a private institudion is able to actively monitor the progress of every employee at realtime, analysing information in a centralized way that gives more insights on better ways of improving the organization.
 
-To maintain the best of my goal , i have made this app have several managers and several users.
+To maintain the best of my goal , i have made this app to have several managers and several users.
 
 The user creates an account and selects the company he/she is working for. The This user will be awaiting to be assigned a task by the manager, one the task is assigned, this user has to accept the task. Once the task is accepted, the tracking progress begins.  On completion, the worker has to declare the task to be complete, awaiting verification from the manager and the owners of the premises.
 
@@ -59,4 +60,4 @@ This gives more insights on the managers side, since the manager will be able to
 
 
  
-  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png| width=100 height=200)
+  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png | width=100 height=200)
