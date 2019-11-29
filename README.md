@@ -27,7 +27,9 @@ To install in on Android things :
   6. Analysing this info using machine learning models.
   7. Analytics of better worker performance and reporting incase of work mishandling.
   
- https://youtu.be/uOxihngWp88
+ 
+ 
+  [![Employee](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
  
  The following video will show you the Manager/Employer/Admin side of the app.  
  This includes:
@@ -37,10 +39,12 @@ To install in on Android things :
  4. Verifying if tasks have been done correctly.
  5. Declaring if task has been done correctly.
  
- https://youtu.be/WYlQpCj5--Y
+ 
+ [![Manager](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/WYlQpCj5--Y)
+
  
  
- ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png  =24x48)
+ ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png)
 
 
 # Description
@@ -60,4 +64,4 @@ This gives more insights on the managers side, since the manager will be able to
 
 
  
-  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png  =24x48)
+  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png)
