@@ -37,7 +37,26 @@ To install in on Android things :
  4. Verifying if tasks have been done correctly.
  5. Declaring if task has been done correctly.
  
- ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png)
+ https://youtu.be/WYlQpCj5--Y
  
-  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png)
+ ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png| width=100 height=200)
 
+
+# Description
+Work ethics has been a very big and demanding problem to most organizations, industries, institutions and even private sectors of an economy.  A whole 19% of big organizations fail because of employee ethics, they are unable to tell what a empployee has been doing and at what time and where. Many people have however wanted to overcome this fact through so many ways such as worker attendance sheets, manual chesks and so on, this has proven futile for an organization , company or industry that has a bunch of sub sections.
+
+"Successful entreneural economy is a sort of behavior that includes initiative taking, organizing and re-organizing  of social and economic mecahnisms"-Sapero,1975 .  True work is work that can be accounted for and subjected to evaluation.
+
+. Whats my goal here? 
+
+My goal here is to create a condusive environment full of transparency, full of trust, full of confidence and environment where a company, and individual, organization or a private institudion is able to actively monitor the progress of every employee at realtime, analysing information in a centralized way that gives more insights on better ways of improving the organization.
+
+To maintain the best of my goal , i have made this app have several managers and several users.
+
+The user creates an account and selects the company he/she is working for. The This user will be awaiting to be assigned a task by the manager, one the task is assigned, this user has to accept the task. Once the task is accepted, the tracking progress begins.  On completion, the worker has to declare the task to be complete, awaiting verification from the manager and the owners of the premises.
+
+This gives more insights on the managers side, since the manager will be able to watch all the movements, angles, timings and behavious of this employee basing on a machine learning model. This gives a big insight on the workers ethics as it makes the worker more productive and honest to the organization. Ths manager then recieves a completion request from the worker, he then validates the work and declare the work correct, if correctly done and resources used correctly.
+
+
+ 
+  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png| width=100 height=200)
