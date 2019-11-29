@@ -40,7 +40,7 @@ To install in on Android things :
  https://youtu.be/WYlQpCj5--Y
  
  
- ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png | width=100 height=200)
+ ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png  =24x48)
 
 
 # Description
@@ -60,4 +60,4 @@ This gives more insights on the managers side, since the manager will be able to
 
 
  
-  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png | width=100 height=200)
+  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png  =24x48)
