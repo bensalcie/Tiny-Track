@@ -37,7 +37,7 @@ To install in on Android things :
  4. Verifying if tasks have been done correctly.
  5. Declaring if task has been done correctly.
  
- ![GitHub Logo](/Screensgots/Screenshot_20191130-001904.png)
+ ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png)
  
-  ![GitHub Logo](/Screensgots/Screenshot_20191130-002306.png)
+  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png)
 
