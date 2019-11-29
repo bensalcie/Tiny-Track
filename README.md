@@ -5,7 +5,7 @@ Tiny track is an app that  helps employers manage their workers who work remotel
 
 
 
-#Installation Guidelines.
+# Installation Guidelines.
 This app works on both Android Phones and Android Things kits.
 To install this app on your phone :
 Locate tiny_tract.apk in this repository and download it on your android device, then locate it on your phone and install it.
