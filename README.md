@@ -82,9 +82,9 @@ This gives more insights on the managers side, since the manager will be able to
 </p>
   
 <p float="left">
-  <img src="/Screenshot_20191130-002413.png" width="100" />
-  <img src="/Screenshot_20191129-233908.png" width="100" /> 
-  <img src="/Screenshot_20191130-030941.png" width="100" />
+  <img src="/Screenshots/Screenshot_20191130-002413.png" width="100" />
+  <img src="/Screenshots/Screenshot_20191129-233908.png" width="100" /> 
+  <img src="/Screenshots/Screenshot_20191130-030941.png" width="100" />
 </p>
   
   # Disclaimer
