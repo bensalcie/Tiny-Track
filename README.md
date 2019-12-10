@@ -126,7 +126,7 @@ If you have found any bugs or want to post a feature request please use the [bug
 * Twitter: [@job_getabu](https://twitter.com/ibensalcie )
 
 ### Summary
-| [Tiny Track app](https://github.com/bensalcie/Tiny-Track/blob/master/tiny_truck_apk/tiny_track.apk) | Team Name: Tiny Track | Tiny track is an app that  helps employers manage their workers who work remotely as well as individuals who want to track specific people based on a given task | [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/JobGetabu) | [Denis Mwaniki](https://github.com/sling254) | [Samwel Kamwana](https://github.com/kamwanasamwel)
+| [Tiny Track app](https://github.com/bensalcie/Tiny-Track/blob/master/tiny_truck_apk/tiny_track.apk) | Team Name: Tiny Track | Tiny track is an app that  helps employers manage their workers who work remotely as well as individuals who want to track specific people based on a given task | [LICENSE](https://github.com/bensalcie/Tiny-Track/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/bensalcie)  
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
