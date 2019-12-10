@@ -112,3 +112,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+## Contact information
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/bensalcie). 
+If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/bensalcie/Tiny-Track
+/issues) to report them.
+
+
+#### Developer
+* Homepage: [@About Me](http://bensalcie.likesyou.org/)
+* Twitter: [@job_getabu](https://twitter.com/ibensalcie )
+
+### Summary
+| [Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk) | [Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk) | Team Name: Tiny Track | Darasa project is a class attendance, monitoring and management system | [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/JobGetabu) | [Denis Mwaniki](https://github.com/sling254) | [Samwel Kamwana](https://github.com/kamwanasamwel)
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
