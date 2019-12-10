@@ -10,10 +10,12 @@ This app works on both Android Phones and Android Things kits.
 To install this app on your phone :
 Locate tiny_tract.apk in this repository and download it on your android device, then locate it on your phone and install it.
 
+
 To install in on Android things :
  Clone or download the project , then import it into your android studio. 
  Connect your android things kit and make sure it is updated correctly, the run the app via android studio by tapping 'RUN'
- 
+ Specific managers are assigned to the app, for testing , therefore to test for management of the app use test phone number :
+ +254704808070
  # Promotional Video
  This app works under as a master and slave way, so therefore two personas are needed to act as the employer and employee for this case, one to manage the other.
  
@@ -69,22 +71,22 @@ This gives more insights on the managers side, since the manager will be able to
   
   # Screenshots
   <p float="left">
-  <img src="/Screenshots/Screenshot_20191130-001904.png" width="100" />
-  <img src="/Screenshots/Screenshot_20191129-233852.png" width="100" /> 
-  <img src="/Screenshots/Screenshot_20191130-002115.png" width="100" />
+  <img src="/Screenshots/Screenshot_20191130-001904.png" width="150" />
+  <img src="/Screenshots/Screenshot_20191129-233852.png" width="150" /> 
+  <img src="/Screenshots/Screenshot_20191130-002115.png" width="150" />
 </p>
   
   
  <p float="left">
-  <img src="/Screenshots/Screenshot_20191129-235822.png" width="100" />
-  <img src="/Screenshots/Screenshot_20191130-002227.png" width="100" /> 
-  <img src="/Screenshots/Screenshot_20191130-002306.png" width="100" />
+  <img src="/Screenshots/Screenshot_20191129-235822.png" width="150" />
+  <img src="/Screenshots/Screenshot_20191130-002227.png" width="150" /> 
+  <img src="/Screenshots/Screenshot_20191130-002306.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="/Screenshots/Screenshot_20191130-002413.png" width="100" />
-  <img src="/Screenshots/Screenshot_20191129-233908.png" width="100" /> 
-  <img src="/Screenshots/Screenshot_20191130-030941.png" width="100" />
+  <img src="/Screenshots/Screenshot_20191130-002413.png" width="150" />
+  <img src="/Screenshots/Screenshot_20191129-233908.png" width="150" /> 
+  <img src="/Screenshots/Screenshot_20191130-030941.png" width="150" />
 </p>
   
   # Disclaimer
@@ -122,8 +124,8 @@ If you have found any bugs or want to post a feature request please use the [bug
 
 
 #### Developer
-* Homepage: [@About Me](http://bensalcie.likesyou.org/)
-* Twitter: [@job_getabu](https://twitter.com/ibensalcie )
+* Homepage: [@Personal Portal](http://bensalcie.likesyou.org/)
+* Twitter: [@ibensalcie](https://twitter.com/ibensalcie )
 
 ### Summary
 | [Tiny Track app](https://github.com/bensalcie/Tiny-Track/blob/master/tiny_truck_apk/tiny_track.apk) | Team Name: Tiny Track | Tiny track is an app that  helps employers manage their workers who work remotely as well as individuals who want to track specific people based on a given task | [LICENSE](https://github.com/bensalcie/Tiny-Track/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
