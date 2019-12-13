@@ -71,22 +71,23 @@ This gives more insights on the managers side, since the manager will be able to
   
   # Screenshots
   <p float="left">
-  <img src="/Screenshots/Screenshot_20191130-001904.png" width="150" />
-  <img src="/Screenshots/Screenshot_20191129-233852.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20191130-002115.png" width="150" />
+ 
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-001904.png" width="150" />
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191129-233852.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-002115.png" width="150" />
 </p>
   
   
  <p float="left">
-  <img src="/Screenshots/Screenshot_20191129-235822.png" width="150" />
-  <img src="/Screenshots/Screenshot_20191130-002227.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20191130-002306.png" width="150" />
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191129-235822.png" width="150" />
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-002227.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-002306.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="/Screenshots/Screenshot_20191130-002413.png" width="150" />
-  <img src="/Screenshots/Screenshot_20191129-233908.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20191130-030941.png" width="150" />
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-002413.png" width="150" />
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191129-233908.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-030941.png" width="150" />
 </p>
   
   # Disclaimer
