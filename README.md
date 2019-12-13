@@ -31,7 +31,7 @@ To install in on Android things :
   
  
  
-  [![Employee](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
+  [![Employee-side video ](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
  
  The following video will show you the Manager/Employer/Admin side of the app.  
  This includes:
@@ -42,7 +42,7 @@ To install in on Android things :
  5. Declaring if task has been done correctly.
  
  
- [![Manager](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/WYlQpCj5--Y)
+ [![Manager-side video](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/WYlQpCj5--Y)
 
  
  
