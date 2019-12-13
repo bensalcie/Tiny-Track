@@ -46,7 +46,7 @@ To install in on Android things :
 
  
  
- ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png)
+ ![Tiny Track](https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-001904.png)
 
 
 # Description
@@ -66,7 +66,7 @@ This gives more insights on the managers side, since the manager will be able to
 
 
  
-  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png)
+  ![Sample Track](https://github.com/bensalcie/Tiny-Track/blob/master/Screenshots/Screenshot_20191130-002306.png)
   
   
   # Screenshots
