@@ -91,7 +91,7 @@ This gives more insights on the managers side, since the manager will be able to
 </p>
   
   # Disclaimer
-  Tiny Truck is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications.
+  Tiny Truck is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications to whom it may concern.
   
   
   # License
